@@ -1,0 +1,2 @@
+﻿#!/bin/bash
+python3 scraping1.py > weather.txt && open_jtalk -m /usr/share/hts-voice/mei/mei_normal.htsvoice -x /var/lib/mecab/dic/open-jtalk/naist-jdic/ -ow weather.wav weather.txt && aplay weather.wav
