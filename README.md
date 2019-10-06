@@ -7,6 +7,8 @@
 
 ## 要素
 - tenki.jpのスクレイピング
+  - beautifulsoup
 - スピーカーから音声出力
+  - open_jtalk mei
 - 物理ボタンの入力
   - プログラム始動
