@@ -1,6 +1,9 @@
+#!/usr/bin/env python
+#-*- coding: utf-8 -*-
+
 """
-pip install beautifulsoup4
-pip install parse
+pip3 install parse
+pip3 install beautifulsoup4
 """
 
 import urllib.request
